@@ -1,0 +1,24 @@
+{
+  "id": "1703149045.124",
+  "name": "PJSIP/infinity_outbound-00000079",
+  "state": "Down",
+  "protocol_id": "ec717ed3-73ca-4901-9ff1-5a752aa30955",
+  "caller": {
+    "name": "Vlad",
+    "number": ""
+  },
+  "connected": {
+    "name": "Vlad",
+    "number": ""
+  },
+  "accountcode": "",
+  "dialplan": {
+    "context": "from-pstn",
+    "exten": "s",
+    "priority": 1,
+    "app_name": "AppDial2",
+    "app_data": "(Outgoing Line)"
+  },
+  "creationtime": "2023-12-21T08:57:25.047+0000",
+  "language": "ru"
+}

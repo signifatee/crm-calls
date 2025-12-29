@@ -1,0 +1,12 @@
+server:
+  bind_addr: ":3131"
+  log_level: "debug"
+  max_header_bytes: "1MB"
+  read_timeout: "10" #seconds
+  write_timeout: "10" #seconds
+
+db:
+  host: "localhost"
+  port: "5437"
+  ssl_mode: "disable"
+  driver": "postgres"
